@@ -22,3 +22,6 @@ python .\addAccount.py
 You are promted to insert your login data and installation paths, in the end a `.bat` file is created. 
 
 Each file can be added as a different macro in your mouse/keyboard software, for example in **Corsair iCue** goto `Key Assignments -> Launch App -> Select Application to Launch`.
+
+## Credit
+Project was inspired by: https://github.com/CasperDoesCoding/account-manager
